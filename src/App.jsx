@@ -22,16 +22,20 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/vans" element={<Vans />} />
-        <Route path="/vans/:id" element={<VanDetail />} />
+        <Route path="/vans/:id" element={<VanDetail />} /> 
       </Routes>
     </BrowserRouter>
   )
 }
 
+
+
+
+
 ReactDOM
   .createRoot(document.getElementById('root'))
   .render(<App />);
 
+  export default App
 
 
-export default App
