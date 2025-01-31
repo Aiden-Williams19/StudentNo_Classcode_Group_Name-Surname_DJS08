@@ -37,4 +37,4 @@ For your recorded presentation, you will be discussing key concepts related to R
 
 Be prepared to provide code snippets and real-world application examples from your Van Life Project to support your explanations.
 
-Make sure to submit your project to the DJS08 Project Tab on the LMS. Include a link to your Loom Presentation in your README.
+Make sure to submit your project to the DJS08 Project Tab on the LMS. Include a link to your Loom Presentation in your README. loom link : https://www.loom.com/share/dd67c93da8b649198b7de32dc986dcf8?sid=2e02b9c0-b8c4-4589-953b-b39cd9f6f167
